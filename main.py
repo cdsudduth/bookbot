@@ -68,10 +68,8 @@ def dict_conversion(dict):
     keys = dict.keys()
     counts = dict.values()
     merged_list = list(zip(keys,counts))
-    #print(merged_list)
     return merged_list
 def sort_dict(list):
     new_list = sorted(list, key = lambda x: int(x[1]), reverse=True)
-
     return new_list
 __main__()
