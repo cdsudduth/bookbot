@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project.
+BookBot is my first git project. It is intended to read a book in .txt file format and give a full accounting of words and a sorted list of the number of occurences of each letter in the alphabet from greatest to least.
